@@ -1,0 +1,14 @@
+Folder PATH listing for volume Data
+Volume serial number is 6CC4-AEF1
+E:.
++---.vscode
++---images
+?   +---icons
++---js
++---Starter Template
+?   +---.vscode
+?   +---images
+?   ?   +---icons
+?   +---js
+?   +---styles
++---styles
